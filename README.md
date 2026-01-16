@@ -1,4 +1,6 @@
-Please load on Google Colab and simply run all cells. 
+Prompt engineering and benchmarking using no shot, few-shot and zero-shot prompt engineering to improve agent task success rates in Tau^2-bench.
 
-
-The previous API key has been deleted in Google Gemini API Studio so the one in the current notebook is useless. Please use the one provided in email
+No. of tasks: 5
+Task Domain: Retail
+Models: Gemini 2.5 Pro
+Accelerator: None (Gemini API)
